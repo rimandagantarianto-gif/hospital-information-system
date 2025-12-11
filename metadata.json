@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SCHOA - Smart Clinical & Operational Assistant Rimanda",
+  "description": "A modular hospital management prototype integrating FHIR-structured data with Gemini AI. Features include clinical documentation automation, financial analytics, and natural language patient search.",
+  "requestFramePermissions": []
+}
